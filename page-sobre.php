@@ -15,12 +15,6 @@
 			<div class="grid-6">
 				<h2 class="subtitulo-interno">Valores</h2>
 				<?php the_field('valores') ?>
-				<!-- <ul>
-					<li>- Qualidade no processo com</li>
-					<li>- Foco no cliente sem perder a</li>
-					<li>- Diversão, preservando a</li>
-					<li>- Natureza com sustentabilidade</li>
-				</ul> -->
 			</div>
 
 			<div class="grid-16 foto-equipe">
