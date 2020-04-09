@@ -20,6 +20,7 @@
 	@media only screen and (max-width: 767px) {
 		.introducao {
 			background: url('<?php echo $background_medium[0] ?>') no-repeat center;
+			background-size: cover;
 		}
 	}
 </style>
